@@ -1,0 +1,12 @@
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.deps.json
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.json
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.dev.json
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfo.cs
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/josephgarrett/Desktop/coding_dojo/C#/fundamentals/OOP/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.genruntimeconfig.cache
